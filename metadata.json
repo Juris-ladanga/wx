@@ -15,6 +15,8 @@
   { "type": "DXVK", "verName": "1.10.3", "verCode": 1, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/D3d_wcp/dxvk-1.10.3.wcp" },
   { "type": "DXVK", "verName": "gplasync-2.2-4", "verCode": 1, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/D3d_wcp/dxvk-gplasync-2.2-4.wcp" },
   { "type": "DXVK", "verName": "2.4.1", "verCode": 1, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/D3d_wcp/dxvk-2.4.1.wcp" },
+  { "type": "DXVK", "verName": "dev-2.4.1-293", "verCode": 1, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/D3d_wcp/dxvk-dev-2.4.1-293-g4c0cbbef.master.4846.wcp" },
+  { "type": "DXVK", "verName": "dev-special-2.4.1-293", "verCode": 1, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/D3d_wcp/dxvk-dev-special-2.4.1-293-g4c0cbbef.master.4846.wcp" },
   { "type": "DXVK", "verName": "2.4.1-HDR-v0.3.0", "verCode": 1, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/D3d_wcp/dxvk_v2.4.1-HDR-v0.3.0.wcp" },
   { "type": "DXVK", "verName": "2.4.1-HDR-gplasync", "verCode": 1, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/D3d_wcp/dxvk_v2.4.1-HDR-v0.3.0-gplasync.wcp" },
   { "type": "DXVK", "verName": "gplasync-special-v2.4-1", "verCode": 1, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/D3d_wcp/dxvk-gplasync-special-v2.4-1.wcp" },
